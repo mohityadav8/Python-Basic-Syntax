@@ -49,7 +49,6 @@ NLP (Natural Language Processing)
 
 Its syntax is close to natural language, which makes it easier to read and understand.
 
-📁 Repository Structure
 📦 Python-Beginner-Guide
  ┣ 📂 code_examples
  ┃ ┣ variables.py
@@ -60,6 +59,7 @@ Its syntax is close to natural language, which makes it easier to read and under
  ┃ ┗ practice_questions.md
  ┣ 📄 Python_Notes.pdf
  ┗ 📄 README.md
+
 
 ▶️ How to Run
 
