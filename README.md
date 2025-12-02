@@ -18,17 +18,30 @@ It is also useful for students preparing for exams, coding foundations, or start
 📚 What This Repo Covers
 
 ✔ Python Syntax & Rules
+
 ✔ Variables & Data Types
+
 ✔ Input / Output
+
 ✔ Conditional Statements (if, elif, else)
+
+
 ✔ Loops (for, while)
+
 ✔ Functions
+
 ✔ Lists, Tuples, Sets & Dictionaries
+
 ✔ String Methods
+
 ✔ File Handling
+
 ✔ Exception Handling
+
 ✔ Object-Oriented Programming (OOP)
+
 ✔ Mini Projects
+
 ✔ Notes PDF (optional export version)
 
 🧠 Why Python?
@@ -48,17 +61,6 @@ Web Development
 NLP (Natural Language Processing)
 
 Its syntax is close to natural language, which makes it easier to read and understand.
-
-📦 Python-Beginner-Guide
- ┣ 📂 code_examples
- ┃ ┣ variables.py
- ┃ ┣ loops.py
- ┃ ┣ functions.py
- ┃ ┗ oop_basics.py
- ┣ 📂 exercises
- ┃ ┗ practice_questions.md
- ┣ 📄 Python_Notes.pdf
- ┗ 📄 README.md
 
 
 ▶️ How to Run
